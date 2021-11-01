@@ -660,12 +660,12 @@ class range_detection:
 while True:
     # если файл, наличие которого говорит об обновлении исторических данных, то выполняем обработку данных
     if os.path.exists(
-            "/content/drive/MyDrive/TC/data_is_downloaded.txt"):
+            "data_is_downloaded.txt"):
         range_ = range_detection()
         range_()
         range_.plot_all_ranges()
         # Удаляем файл для того чтобы цикл обработки данных не повторялся до получения новых данных
-        os.remove("/content/drive/MyDrive/TC/data_is_downloaded.txt")
+        os.remove("data_is_downloaded.txt")
         time_.sleep(10)
     else:
         # запускаем код каждые 10 секунд
