@@ -1,6 +1,3 @@
-# https://www.youtube.com/watch?v=zKuBDil5dlw&t=1458s&ab_channel=WebForMySelf
-# https://www.youtube.com/watch?v=J5sqWAqDPyE&ab_channel=WebForMySelf
-
 import requests
 from bs4 import BeautifulSoup
 import csv
