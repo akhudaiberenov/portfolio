@@ -6,6 +6,7 @@ This repository contains mostly notebooks with objectives, that were done within
 - [Analitical report with SQL](https://github.com/akhudaiberenov/portfolio/blob/main/Data%20analysis%20SQL.ipynb) for the HR department of fictional company. Complied a set of research subjects, that were tested on data. Made reccomendations for the HR department on choosing recruitment sourses and interaction with existing employees.
 ## Machine learning and Deep learning
 - On the basis of data of telecom company developed [prediction model](https://github.com/akhudaiberenov/portfolio/blob/main/Machine%20Learning.ipynb) of outgoing clients. The model based on staking of classification ML algoritms: `k-nearest neighbors`, `decition trees` and `logistic regression`.
+- Realization [FNN model on Pyton] for classification of handwritten digits.
 - [Image classifier of humans' gender, race and age](https://github.com/akhudaiberenov/portfolio/blob/main/Image%20classifier.ipynb) based on image of their faces. Performed transfer learning and finetuning of previously trained on other data model.
 - [Generator of humans' faces 32x32](https://github.com/akhudaiberenov/portfolio/blob/main/Face%20generator%20(with%20GAN).ipynb) trained with `Generative adversarial network` architecture. Model generates human faces using 100 digit vector.
 - [Segmentation of objets on image](https://github.com/akhudaiberenov/portfolio/blob/main/Segmentation%20of%20objects.ipynb) using `ASPP net`.
