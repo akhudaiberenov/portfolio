@@ -9,7 +9,7 @@ This repository contains mostly notebooks with objectives, that were done within
 - [Image classifier of humans' gender, race and age](https://github.com/akhudaiberenov/portfolio/blob/main/Image%20classifier.ipynb) based on image of their faces. Performed transfer learning and finetuning of previously trained on other data model.
 - [Generator of humans' faces 32x32](https://github.com/akhudaiberenov/portfolio/blob/main/Face%20generator%20(with%20GAN).ipynb) trained with `Generative adversarial network` architecture. Model generates human faces using 100 digit vector.
 - [Segmentation of objets on image](https://github.com/akhudaiberenov/portfolio/blob/main/Segmentation%20of%20objects.ipynb)
-- [Detector of handwritten digits on image]()
+- [Detector of handwritten digits on image](https://github.com/akhudaiberenov/portfolio/blob/main/Fast%20R-CNN.ipynb) trained on mnist dataset.
 - [Detector of roller and disinfectant on image]()
 - [Movie genre classifier](https://github.com/akhudaiberenov/portfolio/blob/main/Text%20classificator%20(RNN).ipynb), that make predictions within short rewiev of it as input.
 - [Chat bot]()
