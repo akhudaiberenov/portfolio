@@ -12,7 +12,7 @@ This repository contains mostly notebooks with objectives, that were done within
 - [Detector of handwritten digits on image](https://github.com/akhudaiberenov/portfolio/blob/main/Fast%20R-CNN.ipynb) with `Fast R-CNN` architecture.
 - [Detector of roller and disinfectant on image]()
 - [Movie genre classifier](https://github.com/akhudaiberenov/portfolio/blob/main/Text%20classificator%20(RNN).ipynb), that make predictions within short rewiev of it as input.
-- [Chat bot]() (has not trainet enough yet)
+- [Chat bot]() with `Attention` mechanism (has not trained enough yet)
 - [AI model that plays in the game `Pong-v0`](). Model was trained with `Deep Q-learning` method. As input it gets mathematical substraction of 4 last images and predicts action that leads to win.
 ## Additional practice
 - [Range detector](https://github.com/akhudaiberenov/portfolio/blob/main/range_detection.py) of barchart of any asset using `Linear regression` for finding slope of Highs and Lows and mean deviation of extremum of bars to these asymptotes.
