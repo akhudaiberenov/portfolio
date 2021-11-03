@@ -16,4 +16,4 @@ This repository contains mostly notebooks with objectives, that were done within
 - [AI model that plays in the game `Pong-v0`](). Model was trained with `Deep Q-learning` method. As input it gets mathematical substraction of 4 last images and predicts action that leads to win.
 ## Additional practice
 - [Range detector](https://github.com/akhudaiberenov/portfolio/blob/main/range_detection.py) of barchart of any asset using `Linear regression` for finding slope of Highs and Lows and mean deviation of extremum of bars to these asymptotes.
-- Simple [parser]() of posted cars for selling. 
+- Simple [parser](https://github.com/akhudaiberenov/portfolio/blob/main/parcing.py) of posted cars for selling. 
