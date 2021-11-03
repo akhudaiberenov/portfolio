@@ -11,7 +11,7 @@ This repository contains mostly notebooks with objectives, that were done within
 - [Segmentation of objets on image](https://github.com/akhudaiberenov/portfolio/blob/main/Segmentation%20of%20objects.ipynb) using `ASPP net`.
 - [Detector of handwritten digits on image](https://github.com/akhudaiberenov/portfolio/blob/main/Fast%20R-CNN.ipynb) with `Fast R-CNN` architecture.
 - [Detector of roller and disinfectant on image]()
-- [Movie genre classifier](https://github.com/akhudaiberenov/portfolio/blob/main/Text%20classificator%20(RNN).ipynb), that make predictions within short rewiev of it as input.
+- [Movie genre classifier](https://github.com/akhudaiberenov/portfolio/blob/main/Text%20classificator%20(RNN).ipynb), that make predictions within short rewiev of it as input with `RNN` net.
 - [Chat bot]() with `Attention` mechanism (has not trained enough yet)
 - [AI model that plays in the game `Pong-v0`](). Model was trained with `Deep Q-learning` method. As input it gets mathematical substraction of 4 last images and predicts action that leads to win.
 ## Additional practice
